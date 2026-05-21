@@ -1,1 +1,1 @@
-# Trabalho-Pr-tico-1-Conversor-Universal-de-Sistemas-de-Numera-o
+# Trabalho-Pratico-1-Conversor-Universal-de-Sistemas-de-Numeracao
